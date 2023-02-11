@@ -55,5 +55,63 @@
       "cost": 129,
       "borrowed": false
     }
+  ],
+  "users": [
+    {
+      "username": "Manoj",
+      "avatar": "ldkjfslals",
+      "email": "manojyad436@gmail.com",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "username": "man",
+      "avatar": "sdfd",
+      "email": "man@123",
+      "password": "123",
+      "id": 2
+    }
+  ],
+  "blogs": [
+    {
+      "username": "man",
+      "avatar":"https://t3.ftcdn.net/jpg/03/46/83/96/360_F_346839683_6nAPzbhpSkIpb8pmAwufkC7c5eD7wYws.jpg/",
+      "title": "B Present",
+      "content": "lo sdfjasdf;f;sk;dlfk;lsdfk;k;dfk;k;skf;sklf",
+      "date": "2023-02-10",
+      "likes": 24,
+      "commentts": [],
+      "id": 1
+    },
+    {
+      "username": "man",
+      "avatar":"https://t3.ftcdn.net/jpg/03/46/83/96/360_F_346839683_6nAPzbhpSkIpb8pmAwufkC7c5eD7wYws.jpg/",
+      "title": "B Present",
+      "content": "lo sdfjasdf;f;sk;dlfk;lsdfk;k;dfk;k;skf;sklf",
+      "date": "2023-02-10",
+      "likes": 24,
+      "commentts": [],
+      "id": 1
+    },
+    {
+      "username": "man",
+      "avatar":"https://t3.ftcdn.net/jpg/03/46/83/96/360_F_346839683_6nAPzbhpSkIpb8pmAwufkC7c5eD7wYws.jpg/",
+      "title": "B Present",
+      "content": "lo sdfjasdf;f;sk;dlfk;lsdfk;k;dfk;k;skf;sklf",
+      "date": "2023-02-10",
+      "likes": 24,
+      "commentts": [],
+      "id": 1
+    },
+    {
+      "username": "man",
+      "avatar":"https://t3.ftcdn.net/jpg/03/46/83/96/360_F_346839683_6nAPzbhpSkIpb8pmAwufkC7c5eD7wYws.jpg/",
+      "title": "B Present",
+      "content": "lo sdfjasdf;f;sk;dlfk;lsdfk;k;dfk;k;skf;sklf",
+      "date": "2023-02-10",
+      "likes": 24,
+      "commentts": [],
+      "id": 1
+    }
   ]
 }
