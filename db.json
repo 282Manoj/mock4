@@ -59,14 +59,12 @@
   "users": [
     {
       "username": "Manoj",
-      "avatar": "ldkjfslals",
       "email": "manojyad436@gmail.com",
       "password": "1234",
       "id": 1
     },
     {
       "username": "man",
-      "avatar": "sdfd",
       "email": "man@123",
       "password": "123",
       "id": 2
